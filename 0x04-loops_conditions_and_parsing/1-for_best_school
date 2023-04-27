@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env/bash
 # This script is displaying "Holberton School" 10 times.
 # _ is a special disposable variable in bash, while $_ returns the most recent parameter
 for _ in {0..9}; do echo 'Holberton School'; done
